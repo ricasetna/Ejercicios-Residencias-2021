@@ -155,7 +155,7 @@ public class Calculador extends Activity
 		CajaSuperior.setTextColor(Color.parseColor("#F9A825"));
 		CajaSuperior.setGravity(Gravity.CENTER);
 		CajaSuperior.setHint("Introduzca la longitud de Lado...");
-		CajaSuperior.setInputType(InputType.TYPE_CLASS_NUMBER);
+
 
 		CajaInferior.setTextColor(Color.parseColor("#F9A825"));
 		CajaInferior.setHintTextColor(Color.parseColor("#F9A825"));
