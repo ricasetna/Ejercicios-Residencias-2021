@@ -1,6 +1,10 @@
 Ejercicios-Residencias-2021
 App demo para solicitud de residencias en Punto Singular
 
+Ricardo Ruiz Vega
+Ing. en Electronica TecNM ITMorelia 10° Semestre
+RRVRicardoRuiz@gmail.com
+
 Dentro del codigo estan los archivos necesarios para la ejecucion de los archivos, decidi hacerlo en forma de app de android porque usa lenguaje java y aparte es mas amigable para mi tener una interfaz visual que simplemente hacerlo en una consola.
 
 La app se separa en 3 activities encargado cada uno de cada ejercicio planteado, puede acceder a ellas a traves de los 3 puntos en la esquina superior derecha, todo se ejecuta en tiempo real por lo que inmediatamente cuando comience a escribir en la caja de texto comenzará a ver los resultados de la traduccion o calculos necesarios.
