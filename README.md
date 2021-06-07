@@ -2,12 +2,14 @@ Ejercicios-Residencias-2021
 App demo para solicitud de residencias en Punto Singular
 
 Ricardo Ruiz Vega
+
 Ing. en Electronica TecNM ITMorelia 10° Semestre
+
 RRVRicardoRuiz@gmail.com
 
 Dentro del codigo estan los archivos necesarios para la ejecucion de los archivos, decidi hacerlo en forma de app de android porque usa lenguaje java y aparte es mas amigable para mi tener una interfaz visual que simplemente hacerlo en una consola.
 
-La app se separa en 3 activities encargado cada uno de cada ejercicio planteado, puede acceder a ellas a traves de los 3 puntos en la esquina superior derecha, todo se ejecuta en tiempo real por lo que inmediatamente cuando comience a escribir en la caja de texto comenzará a ver los resultados de la traduccion o calculos necesarios.
+La app se separa en 3 activities encargado cada uno de cada ejercicio planteado, puede acceder a ellas a traves de los 3 puntos en la esquina superior derecha, todo se ejecuta en tiempo real por lo que inmediatamente cuando comience a escribir en la caja de texto comenzará a ver los resultados de la traduccion o calculos necesarios. No requiere presionar ningun boton para hacer el calculo.
 
 <p align="center">
   <img src="Capturas%20de%20Pantalla/TraductorMorse.jpg" width="200" title="Traductor Morse">
@@ -16,6 +18,9 @@ La app se separa en 3 activities encargado cada uno de cada ejercicio planteado,
 </p>
 
 En el caso del traductor morse, para invertir la direccion de traduccion de español-morse a morse-español dispone de un boton que permite hacerlo de manera sencilla y conservando el texto traducido que tenia del otro lado, estilo google traductor.
+Estan considerados los casos no previstos por el codigo, asignando el caracter "?" a cualquier cosa que no pueda traducirse, es decir se encuentra un error.
+
+Se puede copiar el texto traducido y no distingue entre mayusculas y minusculas.
 
 <p align="center">
   <img src="Capturas%20de%20Pantalla/Espa-Morse.jpg" width="200" title="Español a Morse">
